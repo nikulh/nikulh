@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I am a seasoned Full Stack Developer with 5+ years of experience. I specialize in MEAN/MERN Stack, Tailwind. I have worked on a projects across multiple industries such Cybersecurity, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
+🚀 Hey there! With over 5+ years of experience crafting high-quality realtime web applications, optimizing performance, AI Models integrations and more. I bring a wealth of expertise to every project. I have worked on a projects across multiple industries such Cybersecurity, E-commerce, Healthcare, Food Delivery, Marketing, Real Estate, and Gaming.
+
+🛠️ Specializing in a diverse range of technologies, I thrive in creating seamless experiences across various stacks including NextJS, NestJS, MEAN, and MERN, Tailwind CSS. I'm also well-versed in crafting desktop applications using Electron.js and excel in handling intricate data structures and algorithms.
+
+☁️ Additionally, I'm well-versed in cloud computing platforms like AWS, Digital Ocean, and Rackspace, ensuring your project's scalability and reliability.
 
 ## What I Offer:
 
